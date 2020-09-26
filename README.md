@@ -1,3 +1,3 @@
 # git-github-merge-et-conflit
-REMOTE
+REMOTE 
 bonjour comment va tu ?
